@@ -1,6 +1,9 @@
 Redmine base_deface plugin
 ======================
 
+This technical plugin is used as a dependency by other plugins.
+It adds the Deface gems which allows us to customize Redmine standard views.
+
 Integrate with the deface gem to manage view modifications in plugins
 
 Installation
